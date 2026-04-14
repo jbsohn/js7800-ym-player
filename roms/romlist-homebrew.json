@@ -3,11 +3,11 @@
     "files": [
         {
             "name": "YM2149 Player (Ancool)",
-            "path": "ym2149_player_ancool.a78"
+            "path": "ym2149_player_ancool1.a78"
         },
         {
             "name": "YM2149 Player (Enchant)",
-            "path": "Zelda GB DX Demo.a78"
+            "path": "ym2149_player_enchant1.a78"
         }
     ]
 }
