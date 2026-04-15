@@ -36,9 +36,14 @@
   </div>
 
   <script>
+    if (window.location.host !== 'jbsohn.github.io') {
+      window.goatcounter = {no_onload: true};
+    }
     console.log(window.Module)
     site.init(js7800);
   </script>
+  <script data-goatcounter="https://js7800.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
 </body>
 
 </html>
