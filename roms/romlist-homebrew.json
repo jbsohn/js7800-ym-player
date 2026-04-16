@@ -2,6 +2,50 @@
     "folders": [],
     "files": [
         {
+            "name": "Ancool 1",
+            "path": "ANCOOL1.a78"
+        },
+        {
+            "name": "AY-3-8910 Jam",
+            "path": "AY-3-8910_Jam.a78"
+        },
+        {
+            "name": "Buzz-o-Meter",
+            "path": "Buzz-o-Meter.a78"
+        },
+        {
+            "name": "Enchant 1",
+            "path": "enchant1.a78"
+        },
+        {
+            "name": "ND-Loader",
+            "path": "ND-Loader.a78"
+        },
+        {
+            "name": "ND-Toxygene",
+            "path": "ND-Toxygene.a78"
+        },
+        {
+            "name": "Scout",
+            "path": "Scout.a78"
+        },
+        {
+            "name": "Virtual Escape 1",
+            "path": "VirtualEscape1.a78"
+        },
+        {
+            "name": "Virtual Escape 2",
+            "path": "VirtualEscape2.a78"
+        },
+        {
+            "name": "YM2149 Heartbeat (Main)",
+            "path": "ym2149_heartbeat_main.a78"
+        },
+        {
+            "name": "YM2149 Melody (VBI)",
+            "path": "ym2149_melody_vbi.a78"
+        },
+        {
             "name": "YM2149 Player (Ancool)",
             "path": "ym2149_player_ancool1.a78"
         },
