@@ -44,14 +44,6 @@
         {
             "name": "YM2149 Melody (VBI)",
             "path": "ym2149_melody_vbi.a78"
-        },
-        {
-            "name": "YM2149 Player (Ancool)",
-            "path": "ym2149_player_ancool1.a78"
-        },
-        {
-            "name": "YM2149 Player (Enchant)",
-            "path": "ym2149_player_enchant1.a78"
         }
     ]
 }
